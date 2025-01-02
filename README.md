@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=NH-Bappy&icon=6&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
-🔭 I’m currently working on frontend development<br>👯I’m looking to collaborate on any open-source<br>🤝 I’m looking for help with learning Ai<br>🌱 I’m learning Web Development Technologies, including<br>       Front-End AngularJS, react, Back-End NodeJS, and Databases (MongoDB).<br>       I like to use GCP for Cloud Solutions.<br>💬 Ask me about full-stack web development<br>😄 Pronouns: He/Him<br>⚡ Fun fact I can work hard I think.
+🔭 I’m currently working on frontend development<br>👯I’m looking to collaborate on any open-source<br>🤝 I’m looking for help with learning Ai<br>🌱 I’m learning Web Development Technologies, including<br>       Front-End AngularJS, react, Back-End NodeJS, and Databases (MongoDB).<br>       I like to use GCP for Cloud Solutions.<br>💬 Ask me about full-stack web development<br>😄 Pronouns: He/Him<br>⚡ Fun fact I can work hard I think.<br>📫 How to reach me hnaimul302@gmail.com
 
 
 ## 🌐 Socials:
