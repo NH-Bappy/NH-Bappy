@@ -28,7 +28,7 @@
     🇧🇩 Bangla: Native
   </li>
   <li>
-    🏳 English: Advanced
+    English: Advanced
   </li>
   <li>
      Hindi : Intermediate
