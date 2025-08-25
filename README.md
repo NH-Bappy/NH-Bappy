@@ -51,13 +51,31 @@ I like to use GCP for Cloud Solutions.<br>
 
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=NH-Bappy&theme=dark&hide_border=false)
+<table>
+  <tr>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=NH-Bappy&theme=buefy&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-contributor-stats.vercel.app/api?username=NH-Bappy&limit=5&theme=buefy&combine_all_yearly_contributions=true" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NH-Bappy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NH-Bappy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NH-Bappy&icon=0&color=0)](https://visitcount.itsvg.in)
