@@ -86,26 +86,6 @@ I like to use GCP for Cloud Solutions.<br>
 
 <div align="center">
 
-# 📊 GitHub Stats:
-| <a href="https://github.com/NH-Bappy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NH-Bappy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NH-Bappy's github stats" /></a> | <a href="https://github.com/NH-Bappy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NH-Bappy&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
-
-<table>
-  <tr>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=NH-Bappy&theme=buefy&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=NH-Bappy&limit=5&theme=buefy&combine_all_yearly_contributions=true" />
-    </td>
-  </tr>
-</table>
-
-
----
-[![](https://visitcount.itsvg.in/api?id=NH-Bappy&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
