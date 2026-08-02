@@ -55,6 +55,11 @@
 <div align="center">
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=NH-Bappy&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=NH-Bappy&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NH-Bappy&layout=compact&theme=tokyonight&hide_border=true)
 </div>
