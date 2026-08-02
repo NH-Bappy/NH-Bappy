@@ -11,26 +11,33 @@
 
 
 
-# 💫 About Me:
-<table>
-  <tr>
-  <td width="60%">
-⚛️ I’m currently working on full-stack development<br>
-🐧 I’m looking to collaborate on any open-source<br>
-🤖 I’m looking for help with learning AI<br>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> I’m learning Web Development Technologies, including<br>
-Front-End, React, Back-End NodeJS, and Databases (MongoDB).<br>
-I like to use GCP for Cloud Solutions.<br>
-🧠 Ask me about full-stack web development<br>
-⚙️ Pronouns: He/Him<br>
-🔵 Fun fact, I can work hard, I believe.<br>
-🐙 How to reach me: **hnaimul302@gmail.com**
-    </td>
-    <td width="40%">
-     <img width="100%" src="https://raw.githubusercontent.com/oussamabouchikhi/oussamabouchikhi/master/assets/skills.png" alt="cover" />
-    </td>
-  </tr>
-</table>
+# 💫 About Me
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/oussamabouchikhi/oussamabouchikhi/master/assets/skills.png" width="250"/>
+</p>
+
+💻 **Full-Stack Developer (MERN & PERN)**  
+
+I build scalable web apps and real-world systems, from backend logic to interactive dashboards.  
+
+⚡ Experienced with APIs, databases, and IoT-based solutions  
+
+🧠 Ask me about full-stack web development  
+
+🔥 Completed **15+ practical projects**  
+
+---
+
+### 📚 What I Do:
+- Build responsive and user-friendly web applications  
+- Develop RESTful APIs and backend systems  
+- Solve problems with clean and efficient code  
+- Continuously learn new technologies (Applied AI 🤖)  
+
+---
+
+🎯 **Goal:** Become an **Applied AI Engineer**
 
 
 
