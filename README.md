@@ -27,6 +27,8 @@ I build scalable web apps and real-world systems, from backend logic to interact
 
 🔥 Completed **15+ practical projects**  
 
+🎯 **Goal:** Become an **Applied AI Engineer**
+
 ---
 
 ### 📚 What I Do:
@@ -37,7 +39,7 @@ I build scalable web apps and real-world systems, from backend logic to interact
 
 ---
 
-🎯 **Goal:** Become an **Applied AI Engineer**
+
 
 
 
