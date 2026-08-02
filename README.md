@@ -19,7 +19,7 @@
 
 💻 **Full-Stack Developer (MERN & PERN)**  
 
-I build scalable web apps and real-world systems, from backend logic to interactive dashboards.  
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">I build scalable web apps and real-world systems, from backend logic to interactive dashboards.  
 
 ⚡ Experienced with APIs, databases, and IoT-based solutions  
 
